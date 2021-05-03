@@ -65,6 +65,7 @@ def pals():
         "text": hover_text,
         "hoverinfo": "text",
         "marker": {
+            "color": ['#636EFA', '#EF553B', '#00CC96', '#AB63FA', '#FFA15A', '#19D3F3', '#FF6692', '#B6E880', '#FF97FF', '#FECB52'],
             "size": 15,
             "line": {
                 "color": "rgb(8,8,8)",
